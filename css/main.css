@@ -1,0 +1,93 @@
+body{
+background-color: #59968a;
+}
+header{
+    background-color: #2c4a44;
+    width: 825px; 
+    height: 150px; 
+}
+footer{
+    background-color: #b5b5b5;
+    width: 825px;
+    height: 50px;
+}
+#peer{
+    width: 200px;
+    height: 200px;
+    background-color: #c71585;
+}
+#appel{
+    width: 200px;
+    height: 200px;
+    background-color: #FF1493;
+}
+#vuurtoren{
+    width: 200px;
+    height: 200px;
+    background-color: #DB7093;
+}
+#kerktoren{
+    width: 200px;
+    height: 200px;
+    background-color: #FF69B4;
+}
+#rivier{
+    width: 200px;
+    height: 200px;
+    background-color: #FFB6C1;
+}
+#kanaal{
+    width: 200px;
+    height: 200px;
+    background-color: #FFC0CB;
+}
+#jas{
+    width: 200px;
+    height: 200px;
+    background-color: #FFA500;
+}
+#schoen{
+    width: 200px;
+    height: 200px;
+    background-color: #FF7F5D;
+}
+#vierkittens{
+    width: 200px;
+    height: 200px;
+    background-color: #00FF00;
+}
+#mand{
+    width: 200px;
+    height: 200px;
+    background-color: #FFFF00;
+}
+#tuin{
+    width: 200px;
+    height: 200px;
+    background-color: #FF6600;
+}
+#brokjes{
+    width: 200px;
+    height: 200px;
+    background-color: #999900;
+}
+#bank{
+    width: 200px;
+    height: 200px;
+    background-color: #CC9900;
+}
+#kleed{
+    width: 200px;
+    height: 200px;
+    background-color: #006600;
+}
+#kitten{
+    width: 200px;
+    height: 200px;
+    background-color: #6699FF;
+}
+#regenboog{
+    width: 200px;
+    height: 200px;
+    background-color: #CC0000;
+}
